@@ -65,8 +65,8 @@
 							<img id="download-bitcoin" src="images/icons/orange/download-bitcoin.png" alt="download bitcoin">
 						</span>
                         <div class="feature-box-content">
-                            <h3>Ultimate Fx Trading Platform</h3>
-                            <p>Profitable Investments when you trade and invest with us.</p>
+                            <h3>STEP 1</h3>
+                            <p>buy Bitcoin Wallet.</p>
                         </div>
                     </div>
                     <!-- Feature Box Ends -->
@@ -76,8 +76,8 @@
 							<img id="add-bitcoins" src="images/icons/orange/add-bitcoins.png" alt="add bitcoins">
 						</span>
                         <div class="feature-box-content">
-                            <h3>Add coins to your Wallet</h3>
-                            <p>Add bitcoins you’ve created or exchanged via credit card.</p>
+                            <h3>STEP 2</h3>
+                            <p>Add Bitcoin To Your Wallet.</p>
                         </div>
                     </div>
                     <!-- Feature Box Ends -->
@@ -87,8 +87,8 @@
 							<img id="buy-sell-bitcoins" src="images/icons/orange/buy-sell-bitcoins.png" alt="buy and sell bitcoins">
 						</span>
                         <div class="feature-box-content">
-                            <h3>Buy/Sell with Wallet</h3>
-                            <p>Enter receiver's address, specify the amount and send.</p>
+                            <h3>STEP 3</h3>
+                            <p>Buy/Sell with Wallet.</p>
                         </div>
                     </div>
                     <!-- Feature Box Ends -->
@@ -116,8 +116,8 @@
                     <!-- Image Ends -->
                     <!-- Content Starts -->
                     <div class="col-sm-12 col-md-7 col-lg-6">
-                        <h3 class="title-about">WE ARE BAYYA</h3>
-                        <p class="about-text">A place for everyone who wants to simply buy and sell Bitcoins. Deposit funds using your Visa/MasterCard or bank transfer. Instant buy/sell of Bitcoins at fair price is guaranteed. Nothing extra. Join over 700,000 users from all over the world satisfied with our services.</p>
+                        <h3 class="title-about">WE ARE BITCOINFX</h3>
+                        <p class="about-text">Best asset management and financial concept that you will see in the current industry. We make it our mission to meet our clients’ needs and security right away. Our forex transactions are fast safe and secured. Payments should only be made on the website...</p>
                         <ul class="nav nav-tabs">
                             <li class="active"><a data-toggle="tab" href="#menu1">Our Mission</a></li>
                             <li><a data-toggle="tab" href="#menu2">Our advantages</a></li>
@@ -693,7 +693,7 @@
 							</div>
 							<!-- Call To Action Text Ends -->
 							<!-- Call To Action Button Starts -->
-							<p class="action-btn"><a class="btn btn-primary" href="register.html">Register Now</a></p>
+							<p class="action-btn"><a class="btn btn-primary" href="{{route ('register')}}">Register Now</a></p>
 							<!-- Call To Action Button Ends -->
 						</div>
 					</div>

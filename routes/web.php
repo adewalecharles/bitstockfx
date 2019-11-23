@@ -22,3 +22,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/about-us', 'AboutController@index');
 
 Route::get('/contact-us', 'ContactController@index');
+
+Route::get('/payment-proof', 'PaymentProofController@index');
+
+Route::get('/buy-bitcoin', 'BuyBitcoinController@index');

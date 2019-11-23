@@ -72,7 +72,7 @@
                 <div class="row">
                     <!-- Logo Starts -->
                     <div class="main-logo col-xs-12 col-md-3 col-md-2 col-lg-2 hidden-xs">
-                        <a href="index.html">
+                        <a href="{{url('/')}}">
 							<img id="logo" class="img-responsive" src="{{asset('images/logo-dark.png')}}" alt="logo">
 						</a>
                     </div>
